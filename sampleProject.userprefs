@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapMotion\Scripts\Utils\GrabbingHand.cs">
+    <Files>
+      <File FileName="Assets\CPlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\CCube.cs" Line="1" Column="1" />
+      <File FileName="..\LeapMotionCoreAssets-develop\Assets\LeapMotion\Scripts\Utils\GrabbingHand.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Scripts\Utils\GrabbingHand.cs" Line="145" Column="80" />
+      <File FileName="Assets\LeapMotion\Scripts\Utils\GrabbableObject.cs" Line="52" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

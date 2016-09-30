@@ -1,0 +1,41 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M  (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\dev\unity\projects\sampleProject\sample4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\dev\unity\projects\sampleProject\sample4_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\dev\unity\projects\sampleProject\sample4_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\dev\unity\projects\sampleProject\sample4_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.OpenVR initialized!
+ 
+(Filename:  Line: 347)
+
+[VRDevice] Successfully created device OpenVR.
+UnloadTime: 0.551074 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 225c -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 701)
+
